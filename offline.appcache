@@ -1,14 +1,14 @@
 ﻿CACHE MANIFEST
-#1477170859
+#1477171125
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
-images/leftpaddle-sheet0.png
-images/rightpaddle-sheet0.png
-images/ball-sheet0.png
-images/boundary-sheet0.png
-images/rightgoal-sheet0.png
-images/leftgoal-sheet0.png
+leftpaddle-sheet0.png
+rightpaddle-sheet0.png
+ball-sheet0.png
+boundary-sheet0.png
+rightgoal-sheet0.png
+leftgoal-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
